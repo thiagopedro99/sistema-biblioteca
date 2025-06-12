@@ -91,8 +91,8 @@ O projeto está configurado com:
 
 Projeto desenvolvido como atividade acadêmica para a **Unicesumar** na disciplina de Desenvolvimento Web.
 
-**Autor:** [Thiago Silva]  
-**Curso:** [Análise e Desenvolvimento de Sistemas]  
+**Autor:** Thiago Silva  
+**Curso:** Análise e Desenvolvimento de Sistemas 
 
 ## 📄 Licença
 
