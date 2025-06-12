@@ -1,0 +1,41 @@
+# === JAVA ===
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.log
+
+# === MAVEN ===
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# === ECLIPSE ===
+.metadata
+.settings/
+.project
+.classpath
+.loadpath
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+
+# === WINDOWS ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === TOMCAT ===
+/tomcat/
+*.log
+
+# === TEMPORÁRIOS ===
+*~
+*.temp
+*.old
